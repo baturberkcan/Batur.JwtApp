@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Batur.JwtApp.Back", "Batur.JwtApp.Back\Batur.JwtApp.Back.csproj", "{00EA4828-ECD4-4993-AD8E-BC362159B395}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00EA4828-ECD4-4993-AD8E-BC362159B395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00EA4828-ECD4-4993-AD8E-BC362159B395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00EA4828-ECD4-4993-AD8E-BC362159B395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00EA4828-ECD4-4993-AD8E-BC362159B395}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B13D832-49C2-4E96-BE76-AC0EE6F5515C}
+	EndGlobalSection
+EndGlobal
